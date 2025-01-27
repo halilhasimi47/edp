@@ -64,3 +64,9 @@ The system employs an event-driven architecture. Events are created based on use
 ## Conclusion
 This project demonstrates a modular and extensible approach to building a library management system using Python. Its event-driven architecture allows for seamless interaction between components and efficient handling of user requests.
 
+
+
+Medium Blog 
+
+**Building a Smarter Library Management System with Python**
+
